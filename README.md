@@ -1,3 +1,4 @@
 # Cplusplus_HS
-All my C++ Programs from high school. Some games.
+All my C++ programs from high school. Some games.
 
+Commenting could be better.
